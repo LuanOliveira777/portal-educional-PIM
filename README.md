@@ -1,4 +1,4 @@
-# 📚 Plataforma de Educação Digital Segura
+Plataforma de Educação Digital Segura
 
 Projeto desenvolvido no 1º semestre de Análise e Desenvolvimento de Sistemas (UNIP).
 
@@ -6,18 +6,18 @@ Este sistema simula uma plataforma de ensino interativo focada na inclusão digi
 
 ---
 
-## 🚀 Funcionalidades
+Funcionalidades
 
-- 🔒 Cadastro e login de usuários com senha criptografada (hash SHA-256)
-- 🎯 Registro dos cursos acessados pelos usuários
-- 📊 Visualização de estatísticas de uso (média, mediana e moda dos acessos)
-- 💾 Armazenamento de dados em arquivos JSON
-- 🔗 Interface web simples com Flask e templates HTML
-- 🧠 Códigos organizados por módulos (autenticação, conteúdo, estatísticas)
+-  Cadastro e login de usuários com senha criptografada (hash SHA-256)
+-  Registro dos cursos acessados pelos usuários
+-  Visualização de estatísticas de uso (média, mediana e moda dos acessos)
+-  Armazenamento de dados em arquivos JSON
+-  Interface web simples com Flask e templates HTML
+-  Códigos organizados por módulos (autenticação, conteúdo, estatísticas)
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+Tecnologias utilizadas
 
 - Python 3.8+
 - Flask
@@ -26,15 +26,15 @@ Este sistema simula uma plataforma de ensino interativo focada na inclusão digi
 
 ---
 
-## 💻 Como executar
+ Como executar
 
-### ▶️ Rodar versão no terminal:
+Rodar versão no terminal:
 
 ```bash
 python main.py
 ```
 
-### 🌐 Rodar versão web com Flask:
+Rodar versão web com Flask:
 
 1. Instale o Flask (se ainda não tiver):
 ```bash
@@ -53,7 +53,7 @@ http://localhost:5000
 
 ---
 
-## 📦 Estrutura do projeto
+Estrutura do projeto
 
 ```
 /portal-educacional
@@ -74,18 +74,7 @@ http://localhost:5000
 └── README.md
 ```
 
----
-
-
----
-
-## 🤝 Colaboração
-
-Contribuições são bem-vindas! Sinta-se livre para abrir issues ou enviar pull requests.
-
----
-
-## 🏷️ Licença
+Licença
 
 Este projeto é acadêmico e não possui licença aberta para uso comercial.
 
