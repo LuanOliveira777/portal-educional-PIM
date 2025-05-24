@@ -26,14 +26,8 @@ Tecnologias utilizadas
 
 ---
 
- Como executar
-
-Rodar versão no terminal:
-
-```bash
-python main.py
-```
-
+ Como executar:
+ 
 Rodar versão web com Flask:
 
 1. Instale o Flask (se ainda não tiver):
