@@ -53,12 +53,11 @@ http://localhost:5000
 
 ---
 
-Estrutura do projeto
+Estrutura do projeto:
 
 ```
 /portal-educacional
 ├── app.py               # Servidor Flask
-├── main.py              # Versão terminal
 ├── utils/               # Lógica da aplicação
 │   ├── auth.py
 │   ├── content.py
@@ -68,9 +67,14 @@ Estrutura do projeto
 │   ├── login.html
 │   ├── register.html
 │   ├── dashboard.html
-│   └── cursos.html
+│   ├── cursos.html
+│   └── ver_cursos.html
 ├── static/              # CSS e arquivos estáticos
-│   └── style.css
+│   ├──style.css
+│   ├── capa.jpeg
+│   ├── capalogica.png
+│   ├── capapython.png
+│   └── capaseguranca.png
 └── README.md
 ```
 
